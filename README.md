@@ -1,5 +1,5 @@
 # javascript-game
-Game
+<b>Game</b>
 
 <b>Demo</b><br/>
 <a href="http://balloonpop.tk">www.balloonpop.tk</a><br/>
